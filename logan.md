@@ -1,1 +1,3 @@
-logan sei la
+var seila = function(){
+	console.log(1);
+}
