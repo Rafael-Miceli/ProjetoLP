@@ -2,21 +2,3 @@ void main()
 
 Feature1
 
-
-Ramon Mançano - ramonmancano@gmail.com
-Arthur Oliveira - arthur.oliveira@al.infnet.edu.br
-Diego Araújo - diesaraujo@gmail.com
-Alex Claude - abauruel@gmail.com
-Alexsandro Araujo - alexsandro.souza@al.infnet.edu.br
-Rafael Guzmán - rafael.guzman@outlook.com
-José Felipe dos Santos Lima - djmibpqt@djmib.net
-Guilherme Bollmann - gbbollmann@gmail.com
-Tiago Bastos - tiago.bgoncalves@al.infnet.edu.br
-Marcus Hildebrandt - marcus.vinicius.hildebrandt@gmail.com
-Vinicus Viana - vinicius.viana@al.infnet.edu.br
-Raquel Taam - raqueltsmm@hotmail.com, raqueltsmm@gmail.com
-Gustavo Tavares - gustavo.cardoso@al.infnet.edu.br
-Cristina Silva - 
-Jackson Garcia - 
-Michel Jean - michelkatsilis@gmail.com
-Luiz Felipe - 
